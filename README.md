@@ -3,7 +3,7 @@
 Repositório destinado a expor as atividades feitas durante o meu aprendizado sobre Java POO no Curso do Gustavo Guanabara.
 
 ## 📌O que é POO?
-Paradigma de programação que organiza o código em **objetos**, contendo:
+Modelar sistemas computacionais como conjuntos de **objetos** que interagem entre si, espelhando entidades do mundo real, contendo:
     - **Dados** (atributos)
     - **Comportamentos** (métodos)
 
