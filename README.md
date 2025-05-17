@@ -34,11 +34,21 @@ Modelar sistemas computacionais como conjuntos de **objetos** que interagem entr
 
 ## 📌O que é um Objeto?
 
-### **Objeto na POO**
+### Objeto na POO
 Entidade concreta de uma classe que possui:
 - **Atributos**: Características (dados)
 - **Métodos**: Ações/comportamentos
 - **Estado**: Valores atuais dos atributos
+
+### Classe na POO
+Modelo abstrato que define:  
+- **Atributos**: Dados/características  
+- **Métodos**: Operações/comportamentos  
+
+#### Características:  
+- Serve como "planta" para criar objetos  
+- Não é um objeto real (apenas define estrutura)  
+- Pode ter múltiplas instâncias (objetos)  
 
 ## Classe vs Objeto
 | **Classe**                 | **Objeto**                  |
