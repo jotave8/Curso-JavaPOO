@@ -35,7 +35,7 @@ Modelar sistemas computacionais como conjuntos de **objetos** que interagem entr
 ## 📌O que é um Objeto?
 
 ### **Objeto na POO**
-Entidade concreta que possui:
+Entidade concreta de uma classe que possui:
 - **Atributos**: Características (dados)
 - **Métodos**: Ações/comportamentos
 - **Estado**: Valores atuais dos atributos
