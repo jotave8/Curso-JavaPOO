@@ -30,3 +30,45 @@ Modelar sistemas computacionais como conjuntos de **objetos** que interagem entr
             System.out.println("Som característico");
         }
     }
+
+
+## 📌O que é um Objeto?
+
+### **Objeto na POO**
+Entidade concreta que possui:
+- **Atributos**: Características (dados)
+- **Métodos**: Ações/comportamentos
+- **Estado**: Valores atuais dos atributos
+
+## Classe vs Objeto
+| **Classe**                 | **Objeto**                  |
+|----------------------------|-----------------------------|
+| Modelo/planta (abstrato)   | Instância (concreto)        |
+| Define estrutura           | Usa a estrutura da classe   |
+| Ex: `Receita`              | Ex: `boloDeChocolate`       |
+
+## Elementos Básicos
+
+### Classe
+    public class Produto {
+        // Atributos
+        String nome;
+        double preco;
+        
+        // Método
+        void exibirDetalhes() {
+            System.out.println(nome + " - R$" + preco);
+        }
+    }
+
+### Instanciando objeto
+    Produto meuProduto = new Produto();
+    meuProduto.nome = "Caderno";
+    meuProduto.preco = 19.90;
+
+### Estado e Instância
+Cada objeto tem estado único
+Ex: Dois produtos podem ter preços diferentes
+
+Instanciar = Criar objeto a partir da classe
+(new + Construtor)
