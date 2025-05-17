@@ -45,7 +45,7 @@ Modelo abstrato que define:
 - **Atributos**: Dados/características  
 - **Métodos**: Operações/comportamentos  
 
-#### Características:  
+Características:  
 - Serve como "planta" para criar objetos  
 - Não é um objeto real (apenas define estrutura)  
 - Pode ter múltiplas instâncias (objetos)  
