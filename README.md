@@ -4,8 +4,8 @@ Repositório destinado a expor as atividades feitas durante o meu aprendizado so
 
 ## 📌O que é POO?
 Modelar sistemas computacionais como conjuntos de **objetos** que interagem entre si, espelhando entidades do mundo real, contendo:
-    - **Dados** (atributos)
-    - **Comportamentos** (métodos)
+- **Dados** (atributos)
+- **Comportamentos** (métodos)
 
 ### Principais Conceitos
 
