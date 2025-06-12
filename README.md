@@ -1,6 +1,6 @@
 # Java POO Learning Repository
 
-Repositório destinado a expor as atividades feitas durante o meu aprendizado sobre Java POO no Curso do Gustavo Guanabara.
+Repositório destinado a expor as atividades feitas durante o meu aprendizado sobre Java POO.
 
 ## 📌O que é POO?
 Modelar sistemas computacionais como conjuntos de **objetos** que interagem entre si, espelhando entidades do mundo real, contendo:
