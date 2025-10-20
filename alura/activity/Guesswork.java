@@ -1,3 +1,4 @@
+package activity;
 import java.util.Scanner;
 import java.util.Random;
 
